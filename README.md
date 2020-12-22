@@ -61,7 +61,7 @@ Using npm:
 <ul>
 <li>Angular</li>
 <li>Java</li>
-<li>Spring Boot, , , </li>
+<li>Spring Boot</li>
 <li>Spring Security with JPA Authentication</li>
 <li>Spring Data JPA with MySQL</li>
 <li>Spring MVC</li>
